@@ -1,0 +1,33 @@
+body{
+    background-image:url("clapperboard-movie-tickets-popcorn_23-2147681378.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+table{
+    /* border: 1px solid black; */
+    /* backdrop-filter: blur(20px); */
+    height: 400px;
+    width: 400px; 
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center;
+    color:white;
+
+}
+
+input{
+    /* width: 250px;
+    height: 25px; */
+    background: transparent;
+  
+
+}
+select{
+    background: transparent;
+}
+
+/* button{ */
+    /* background: transparent; */
+
+/* } */

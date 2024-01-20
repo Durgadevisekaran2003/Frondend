@@ -1,0 +1,40 @@
+input{
+    display:block;
+
+}
+
+body{
+    background-image: url("download.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ .main{
+   display: flex;
+    justify-content: center;
+    
+    /* center la varum text  */
+    align-items: center; 
+    height: 100vh;
+ }
+ .box{
+    border: 2px solid white;
+    backdrop-filter: blur(20px);
+    height: 250px;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+ }
+ #email,#password{
+    width: 300px;
+    height: 25px;
+    background: transparent;
+   
+    outline: none;
+    border: none;
+    border-bottom: 2px solid black;
+ }
+ button{
+    background: transparent;
+ }

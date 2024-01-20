@@ -1,0 +1,26 @@
+body{
+    background-image:url(pngtree-realistic-film-strip-with-popcorn-and-movie-ticket-image_1483983.jpg) ;
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-clip: padding-box; */
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: vh; 
+   
+}
+
+h1{
+    color: tomato;
+    justify-content: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+button{
+    background: transparent;
+    color: brown;
+}
+

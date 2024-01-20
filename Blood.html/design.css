@@ -1,0 +1,26 @@
+h1{
+   text-indent: 50px;
+   line-height: 109px;
+}
+h5{
+    text-indent: 50px;
+    line-height:-0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+b{
+    background: brown;
+    border-radius: 200px;
+    text-indent: 3000spx;
+}
+h2{
+    text-align: left;
+}
+
+body{
+    background-image:url("depositphotos_8140291-stock-photo-blood-is-taken.jpg");
+    background-position: 600px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: aquamarine;
+    background-size:auto;
+}
