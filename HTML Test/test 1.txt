@@ -1,6 +1,6 @@
-1..What are the various formatting tags in HTML?
+1.What are the various formatting tags in HTML?
 
- <b> <strong> <i> <u> <sub> <p> <div><sup><span><del><br><hr><em>
+ <b> <strong> <i> <u> <sub> <p> <div> <sup> <span> <del> <br> <hr> <em>
 
 2.Please explain how to indicate the character set being used by a document in HTML?
 
@@ -57,5 +57,5 @@
 
 10.What are forms and how to create forms in HTML?
 
-  To create a form in HTML, you use the <form> element, and within it, you place input elements like <input>, <select>, <textarea>,
+  To create a form in HTML, you use the <form> element, and within it, you place input elements like <input>, <select>, <textarea>
   
