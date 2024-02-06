@@ -1,0 +1,61 @@
+1..What are the various formatting tags in HTML?
+
+ <b> <strong> <i> <u> <sub> <p> <div><sup><span><del><br><hr><em>
+
+2.Please explain how to indicate the character set being used by a document in HTML?
+
+  <meta charset="utf-8">
+
+3.How is Cell Padding different from Cell Spacing?
+
+  Cell Padding:  Adjusts the space between the content of a cell and its borders.
+  Cell Spacing: Adjusts the space between adjacent cells in the table.
+
+4.Is it possible to change an inline element into a block level element?
+
+  Yes, it is possible to change an inline element into a block-level element using CSS.
+
+5.How can we club two or more rows or columns into a single row or column in an HTML table?
+ 
+  In HTML, you can use the rowspan and colspan attributes to merge multiple rows or columns into a single row or column within a table.
+
+6.In how many ways can we position an HTML element? Or what are the permissible values of the position attribute?
+
+   ---> Static
+   ---> Relative
+   ---> Absolute
+   ---> Fixed
+   ---> Sticky
+
+7.How to specify the link in HTML and explain the target attribute?
+
+  In HTML, you specify a link using the <a> (anchor) element.
+
+  Ex: <a href="#" ></a>  
+ 
+  Attributes:
+       1._self
+       2._blank
+       3._parent
+       4._top
+
+8. Difference between link tag <link> and anchor tag <a>?
+
+ Anchor tag:
+
+ (<a>) is used to create clickable hyperlinks within webpages
+ Ex: <a href="URL">Visit Example</a>
+
+ Link tag:
+
+ (<link>) is used to establish relationships between an HTML document and external resources
+  Ex: <link rel="stylesheet" href="styles.css">
+
+9.How to include javascript code in HTML?
+
+  <script type=text/javascript></script> tag. 
+
+10.What are forms and how to create forms in HTML?
+
+  To create a form in HTML, you use the <form> element, and within it, you place input elements like <input>, <select>, <textarea>,
+  
